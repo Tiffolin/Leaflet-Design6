@@ -1,5 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import React, { Component } from "react";
+import {BrowserRouter, Route} from "react-router-dom";
+import landing from "./components";
+import about from "./components/about";
+import contact from "./components/contact";
+
+
+
 
 function App() {
   return (
