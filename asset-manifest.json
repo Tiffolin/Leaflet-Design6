@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Leaflet-Design6/static/css/main.2a3e70fd.chunk.css",
+    "main.js": "/Leaflet-Design6/static/js/main.d9f329a2.chunk.js",
+    "main.js.map": "/Leaflet-Design6/static/js/main.d9f329a2.chunk.js.map",
+    "runtime-main.js": "/Leaflet-Design6/static/js/runtime-main.c9648735.js",
+    "runtime-main.js.map": "/Leaflet-Design6/static/js/runtime-main.c9648735.js.map",
+    "static/js/2.50aeb0fc.chunk.js": "/Leaflet-Design6/static/js/2.50aeb0fc.chunk.js",
+    "static/js/2.50aeb0fc.chunk.js.map": "/Leaflet-Design6/static/js/2.50aeb0fc.chunk.js.map",
+    "static/js/3.eb332945.chunk.js": "/Leaflet-Design6/static/js/3.eb332945.chunk.js",
+    "static/js/3.eb332945.chunk.js.map": "/Leaflet-Design6/static/js/3.eb332945.chunk.js.map",
+    "index.html": "/Leaflet-Design6/index.html",
+    "static/css/main.2a3e70fd.chunk.css.map": "/Leaflet-Design6/static/css/main.2a3e70fd.chunk.css.map",
+    "static/js/2.50aeb0fc.chunk.js.LICENSE.txt": "/Leaflet-Design6/static/js/2.50aeb0fc.chunk.js.LICENSE.txt",
+    "static/media/summer.06fb4fae.png": "/Leaflet-Design6/static/media/summer.06fb4fae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9648735.js",
+    "static/js/2.50aeb0fc.chunk.js",
+    "static/css/main.2a3e70fd.chunk.css",
+    "static/js/main.d9f329a2.chunk.js"
+  ]
+}
