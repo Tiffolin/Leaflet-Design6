@@ -1,15 +1,10 @@
 import './App.css';
-import Landing from "./components/landing/landing.js";
-import About from "./components/about/about.js";
-import Contact from "./components/contact/contact.js";
+import Main from "./components/main/main.js";
 
 function App() {
   return (
     <div className="App">
-      
-      <Landing />
-      <About />
-      <Contact />
+      <Main />
 
     </div>
   );

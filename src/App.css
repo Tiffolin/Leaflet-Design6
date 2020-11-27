@@ -6,21 +6,70 @@ html,body
     padding: 0px;
     overflow-x: hidden; 
 }
-
-.background{
+#main{
     height:100vh;
     width:100vw;
-    position: fixed;
 }
 
-#landing{
-    z-index:-2;
-    font-family: 'Dancing Script', cursive;
+#bgImg{
+    height:100vh;
+    width:100vw;
+    position:fixed;
+    z-index:-1;
 }
-#about{
-    z-index: -1;
+
+#landing, #about, #contact{
+    height:100vh;
+    width:100vw;
 }
 #contact{
-    z-index:0;
+    color:white;
+    height:100vh;
+    width:100vw;
     background-color:black;
+    opacity:0.2;
 }
+#intro, #aboutText,#contactText{
+    padding:10%
+}
+#contactText{
+    float:right;   
+    margin-right:20%; 
+}
+    #header{
+        font-family: 'Dancing Script', cursive;
+        font-size:10vh;
+    }
+    #subheader{
+        font-family: 'Cinzel', serif;
+        font-size:4vh;
+    }
+    #aboutHeader{
+        font-family: 'Cinzel', serif;
+        font-size:5vh;
+        padding-left:2%;
+    }
+    #subAbout{
+        font-family: 'Cinzel', serif;
+        font-size:2vh;
+        padding:2%;
+        margin:0;
+        border:0;
+        border:solid 1px black;
+        max-width:350px;
+    }
+    #contactHeader{
+        font-family: 'Cinzel', serif;
+        font-size:3vh;
+    }
+    #subContact{
+        font-family: 'Cinzel', serif;
+        font-size:3vh;
+    }
+    .fa{
+        padding:10px;
+        font-size:5vh;
+    }
+    #email{
+        font-size:3vh;
+    }
